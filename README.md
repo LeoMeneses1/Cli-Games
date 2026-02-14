@@ -7,15 +7,15 @@ Este projeto reúne implementações clássicas de jogos rodando diretamente no 
 
 | Jogo | Linguagem | Conceitos Chave Aplicados |
 | :--- | :---: | :--- |
-| **[Batata Quente (Josephus)](./batata-quente)** | C | **TAD Fila**, Ponteiros, Alocação Dinâmica (`malloc/free`), Structs. |
-| **[Jogo da Forca](./forca)** | C++ | Manipulação de Strings, Leitura de Arquivos, Lógica Condicional. |
+| **[Batata Quente](./Hot-Potato-Game)** | C | **TAD Fila**, Ponteiros, Alocação Dinâmica (`malloc/free`), Structs. |
+| **[Jogo da Forca](./Hangman)** | C++ | Manipulação de Strings, Leitura de Arquivos, Lógica Condicional. |
 
 
 ---
 
 ## 💻 Destaques Técnicos
 
-### 1. Batata Quente (The Josephus Problem)
+### 1. Batata Quente
 Uma simulação do clássico problema matemático de Flavius Josephus.
 - **Implementação:** Utiliza um **TAD (Tipo Abstrato de Dado)** de Fila criado do zero.
 - **Lógica:** A fila simula um círculo onde a rotação é feita através de operações de `enqueue` (enfileirar) e `dequeue` (desenfileirar), sem necessidade de listas encadeadas circulares complexas.
