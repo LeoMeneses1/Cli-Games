@@ -23,7 +23,7 @@ Uma simulação do clássico problema matemático de Flavius Josephus.
 
 ### 2. Jogo da Forca
 O clássico jogo de adivinhação de palavras.
-- **Funcionalidades:** validação de entrada e tratamento de caracteres.
+- **Funcionalidades:** Validação de entrada e tratamento de caracteres.
 
 ---
 
