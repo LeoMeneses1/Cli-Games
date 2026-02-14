@@ -1,4 +1,4 @@
-# 🎮 CLI Games (Jogos de Terminal)
+# 🎮 CLI Games
 
 Bem-vindo ao meu repositório de jogos desenvolvidos em **C** e **C++**. 
 Este projeto reúne implementações clássicas de jogos rodando diretamente no terminal (Command Line Interface), com foco no estudo aprofundado de **Estruturas de Dados**, **Algoritmos** e **Gerenciamento de Memória**.
