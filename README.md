@@ -9,6 +9,7 @@ Este projeto reúne implementações clássicas de jogos rodando diretamente no 
 | :--- | :---: | :--- |
 | **[Batata Quente](./Hot-Potato-Game)** | C | **TAD Fila**, Ponteiros, Alocação Dinâmica (`malloc/free`), Structs. |
 | **[Jogo da Forca](./Hangman)** | C++ | Manipulação de Strings, Leitura de Arquivos, Lógica Condicional. |
+| **[Detroit CLI](./Detroit-CLI)** | C++ | **Árvores de Decisão**, Ponteiros, Lógica Condicional, Gerenciamento de Estado (Flags). |
 
 
 ---
@@ -23,8 +24,12 @@ Uma simulação do clássico problema matemático de Flavius Josephus.
 
 ### 2. Jogo da Forca
 O clássico jogo de adivinhação de palavras.
-- **Funcionalidades:** Leitura de banco de palavras, validação de entrada e tratamento de caracteres.
+- **Funcionalidades:** Validação de entrada e tratamento de caracteres.
 
+### 3. Detroit CLI
+Um mini-motor de ficção interativa em texto inspirado na narrativa de *Detroit: Become Human*.
+- **Implementação:** Utiliza uma estrutura baseada em **Árvores de Decisão** / Grafos, onde cada cena é um `struct` (Nó) conectado aos próximos caminhos através de ponteiros.
+- **Lógica:** O roteiro avança navegando pelos endereços de memória. O motor possui sistema de variáveis de estado ("Flags") que lembram ações passadas do jogador para alterar ramificações futuras.
 ---
 
 ## ⚙️ Como Compilar e Rodar
