@@ -29,7 +29,7 @@ O clássico jogo de adivinhação de palavras.
 ### 3. Detroit CLI
 Um mini-motor de ficção interativa em texto inspirado na narrativa de *Detroit: Become Human*.
 - **Implementação:** Utiliza uma estrutura baseada em **Árvores de Decisão** / Grafos, onde cada cena é um `struct` (Nó) conectado aos próximos caminhos através de ponteiros.
-- **Lógica:** O roteiro avança navegando pelos endereços de memória. O motor possui sistema de variáveis de estado ("Flags") que lembram ações passadas do jogador para alterar ramificações futuras.
+- **Lógica:** O roteiro avança navegando pelos endereços de memória. O motor possui sistema de variável de estado ("Flag") que lembra uma ação passada do jogador para alterar ramificações futuras.
 ---
 
 ## ⚙️ Como Compilar e Rodar
