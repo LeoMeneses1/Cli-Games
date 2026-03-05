@@ -2,7 +2,7 @@
 
 Um jogo de aventura em texto baseado em escolhas, inspirado no universo de *Detroit: Become Human*. 
 
-⚠️ **Aviso Importante:** Este projeto não tem como objetivo ser um clone ou uma recriação idêntica do jogo original. É um exercício acadêmico criado para aplicar na prática conceitos de Estrutura de Dados em C++. Todo o foco do desenvolvimento está na lógica por trás das escolhas dinâmicas, e não em replicar a história comercial. Como um fã do jogo, decidi usar ele como base.
+⚠️ **Aviso Importante:** Este projeto não tem como objetivo ser um clone ou uma recriação idêntica do jogo original. É um exercício acadêmico criado para aplicar na prática conceitos de Estrutura de Dados em C++. Todo o foco do desenvolvimento está na lógica, e não em replicar a história comercial. Como um fã do jogo, decidi usar ele como base.
 
 ## 📂 Estrutura do Projeto
 
