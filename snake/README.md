@@ -16,6 +16,20 @@ Um clone do clássico Jogo da Cobrinha desenvolvido inteiramente em **C puro**, 
 - **Linguagem:** C
 - **Bibliotecas:** `<stdio.h>`, `<stdlib.h>`, `<windows.h>` (Manipulação do cursor e cores), `<conio.h>` (Leitura assíncrona do teclado), `<time.h>` e `<stdbool.h>`.
 
+## 🎮 Controles
+
+| Ação | Tecla Principal | Tecla Alternativa |
+| :--- | :--- | :--- |
+| **Cima** | `Seta ↑` | `W` ou |
+| **Baixo** | `Seta ↓` | `S` |
+| **Esquerda**| `Seta ←` | `A` |
+| **Direita** | `Seta →` | `D` |
+| **Sair** | `X` ou `Q` | - |
+
+---
+*Desenvolvido por Leonardo* 🚀
+
+
 ## ⚙️ Como Compilar e Rodar
 
 1. Abra o terminal na pasta do projeto e compile o código avisando o compilador para usar o padrão C99:
