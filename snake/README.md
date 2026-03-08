@@ -20,7 +20,7 @@ Um clone do clássico Jogo da Cobrinha desenvolvido inteiramente em **C puro**, 
 
 | Ação | Tecla Principal | Tecla Alternativa |
 | :--- | :--- | :--- |
-| **Cima** | `Seta ↑` | `W` ou |
+| **Cima** | `Seta ↑` | `W` |
 | **Baixo** | `Seta ↓` | `S` |
 | **Esquerda**| `Seta ←` | `A` |
 | **Direita** | `Seta →` | `D` |
