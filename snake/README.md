@@ -20,7 +20,7 @@ Um clone do clássico Jogo da Cobrinha desenvolvido inteiramente em **C puro**, 
 
 1. Abra o terminal na pasta do projeto e compile o código avisando o compilador para usar o padrão C99:
    ```bash
-   gcc Nibbles.c -o jogo.exe -std=c99
+   gcc snake.c -o jogo.exe -std=c99
    ./jogo.exe
 
 **Pré-requisitos:** Você precisa estar no Windows e ter um compilador C instalado (como o GCC / MinGW).
