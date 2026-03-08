@@ -2,13 +2,14 @@
 
 Um clone do clássico Jogo da Cobrinha desenvolvido inteiramente em **C puro**, rodando diretamente no terminal do Windows. Este projeto foi criado para aplicar conceitos de manipulação de matrizes, laços de repetição e leitura de teclado em tempo real.
 
-![Gameplay do Jogo](animacao1.gif) ## 🕹️ Funcionalidades
+![Gameplay do Jogo](Animacao1.gif) 
+## 🕹️ Funcionalidades
 
 - **Controle Híbrido:** Jogue usando as **Setinhas** do teclado ou as teclas **W, A, S, D**.
 - **Sistema Anti-Suicídio:** A cobra não pode dar ré e bater no próprio pescoço.
 - **Dificuldade Progressiva:** A cada maçã comida (`*`), a cobra cresce e o jogo fica gradativamente mais rápido.
 - **Gráficos de Terminal:** Uso de caracteres UTF-8 (`█`) para criar paredes sólidas e melhorar o visual.
-- **Loop de Jogo:** Tela de *Game Over* com opções de jogar novamente ou sair, sem fechar o terminal derrepente.
+- **Loop de Jogo:** Tela de *Game Over* com opções de jogar novamente ou sair, sem fechar o terminal de repente.
 
 ## 🛠️ Tecnologias Utilizadas
 
